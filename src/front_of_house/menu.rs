@@ -4,7 +4,7 @@ pub fn show_menu() {
     println!("\nMenu:");
     println!("1. Latte - 4.20");
     println!("2. Coffee - 3.50");
-    println!("Tea - 2.80");
+    println!("3. Tea - 2.80");
 }
 
 pub fn get_choice() -> u32 {
