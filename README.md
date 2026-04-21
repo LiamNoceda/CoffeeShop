@@ -51,7 +51,7 @@ You chose Latte.
 Taxes: $1.05
 Total: $5.25
 Preparing Latte..
-Total: $5.25
+Price: $5.25
 Order ready
 ```
 
